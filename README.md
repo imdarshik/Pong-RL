@@ -31,5 +31,5 @@ The DQN is modified to accept 4-channel inputs, representing stacked frames. Thi
 ## Code References
 
 - PyTorch implementation adapted from:
-  - [Hungtuchen](https://github.com/hungtuchen/DQN-PyTorch)
-  - [Kwquan](https://github.com/kwquan/Atari-Pong)
+  - [Hungtuchen](https://github.com/hungtuchen/pytorch-dqn)
+  - [Kwquan](https://github.com/kwquan/farama-Pong)
